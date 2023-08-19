@@ -1,0 +1,14 @@
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  padding: 2rem;
+  font-weight: normal;
+}
+
+main {
+  margin: 0 auto;
+  display: grid;
+}
